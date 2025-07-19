@@ -36,7 +36,7 @@
 - **电能采集芯片：** RN8302B，SPI 通信
 - **通信模块：** Quectel BC20（NB-IoT），通过串口发送 AT 指令
 - **数据采集类型：** 电压、电流、频率
-- **硬件设计文件：** RN8302B-c8t6 V3.1.eprj（嘉立创EDA专业版）
+- **硬件设计文件：** Electricity-Theft-Detection-and-Localization.eprj（嘉立创EDA专业版）
 
 ### 2. 云服务器端
 - **平台：** 京东云
